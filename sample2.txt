@@ -1,1 +1,3 @@
 task to create file and push tha file into github
+
+If we modify a file then we must add,commit and push a file into github
